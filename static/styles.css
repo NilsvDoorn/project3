@@ -1,0 +1,18 @@
+#msg-list {
+  height: 80vh;
+  overflow: auto;
+}
+
+#channel-list {
+  height: 80vh;
+  overflow: auto;
+}
+#channel-list li:hover {
+  background-color: gray;
+}
+
+H1 {
+  text-align: center;
+}
+
+/*# sourceMappingURL=styles.css.map */

@@ -1,0 +1,17 @@
+#msg-list {
+    height: 80vh;
+    overflow: auto;
+}
+
+#channel-list {
+    height: 80vh;
+    overflow: auto;
+
+    li:hover {
+        background-color: gray;
+    }
+}
+
+H1 {
+  text-align: center;
+}
